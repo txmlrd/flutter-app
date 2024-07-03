@@ -1,0 +1,1 @@
+ C:\\Users\\gunga\\OneDrive\\Documents\\ITS\\Kuliah\\Semester\ 6\\PPB\\tugas\ flutter\\namer_step_08\\.dart_tool\\flutter_build\\cab7021326ff4c49eb8490be85a9d653\\native_assets.yaml: 
